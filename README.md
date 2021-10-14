@@ -4,4 +4,4 @@ Ninja Slice is a Computer Vision and Machine Learning enabled game based on the 
 
 [Click here to view Useful Links Docs](https://docs.google.com/document/d/15fJlP2NSFJKuyivLBXvoTb1pPcsYlSbPkmLlY3Krxms/edit?usp=sharing)
 
-Tech Stack : Unity, OpenCV
+Tech Stack : OpenCV (Python)
